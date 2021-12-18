@@ -1,2 +1,2 @@
 # TradingBot
-Password to arhive - BNB
+Password to archive - BNB
